@@ -3,7 +3,7 @@
 A small little car randomly swiffering your room. As described in other projects, I am not a professional programmer or have any education in electronics, so some own improvements may be in order.
 
 ##### YouTube:
-[![](https://img.youtube.com/vi/xxxxx/0.jpg)](https://youtu.be/xxxxx)
+[![](https://img.youtube.com/vi/iIAaTeFTLJk/0.jpg)](https://youtu.be/iIAaTeFTLJk)
 
 #### Requirements:
 * 1x Arduino Pro Mini ATMega 328p 5V
